@@ -4,4 +4,5 @@
 ---
 
 Aniplay is an open source (GPL) media streamers and entertainment hub for Japanimation.<br><br>
+[Aniplay documentations](https://github.com/aniplay)<br>
 </div>
