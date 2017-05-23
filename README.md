@@ -3,6 +3,8 @@
 
 ---
 
-Aniplay is an open source (GPL) media streamers and entertainment hub for Japanimation.<br><br>
-[Aniplay documentations](https://github.com/aniplay)<br>
+```bash
+git clone https://github.com/aniplay/docs
+cd docs\source  && npm install && npm start
+```
 </div>
